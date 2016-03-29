@@ -1,5 +1,7 @@
 # MITREid Connect
 ---
+Build Instructions 搭建说明
+https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Build-instructions
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mitre/openid-connect-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.mitre/openid-connect-parent) [![Travis CI](https://travis-ci.org/mitreid-connect/OpenID-Connect-Java-Spring-Server.svg?branch=master)](https://travis-ci.org/mitreid-connect/OpenID-Connect-Java-Spring-Server)
 
